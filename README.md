@@ -1,5 +1,5 @@
 <h1>Calculadora</h1>
-This GUI project This project will collaborate on the addition of two numbers. The objective of the project was the development of GUI technology.
+This GUI project will sum two numbers. The objective of the project was the development of GUI technology.
 
 <h2>Pre-requirements</h2>
 <ul>
